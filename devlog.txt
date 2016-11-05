@@ -4,7 +4,7 @@
 ###     last: lastmod="Sat, Nov 05, 2016  4:19:51 AM"
 ###     tags: devlog,
 ###     filetype: "yaml"
-###     dreftymacid: "__dmid__"
+###     dreftymacid: "do_untidy_crumbs"
 ###     lastupdate: __blank__
 ###     desc: |
 ###         * __desc__
@@ -15,3 +15,16 @@
 head:
 
 main:
+  - caption:  git fork bible database repo
+    dreftymacid: glumly_verdict_closets
+    rectype:  rrmini05
+    datebeg:  Sat Nov 05 04:20:13 2016 
+    dateend:  Sat Nov 05 04:20:13 2016 
+    tags:     __tags__
+    category: __category__
+    desc:     |
+      * __desc__
+    seealso:  |
+      * __seealso__
+    wwbody: |
+      
